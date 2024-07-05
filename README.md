@@ -4,9 +4,9 @@
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-      <a href="#about-the-project">About The Project</a>
-      <a href="#built-with">Built With</a>
-      <a href="#screenshots">Screenshots</a>
+     <li><a href="#about-the-project">About The Project</a></li> 
+     <li><a href="#built-with">Built With</a></li> 
+     <li> <a href="#screenshots">Screenshots</a></li>
 </details>
 
 

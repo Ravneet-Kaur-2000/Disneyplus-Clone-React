@@ -27,10 +27,6 @@ Website Link: https://react-disneyplus-clone-a6501.firebaseapp.com/
 * Styled Components
 
 ## Screenshots
-
-1. The Login Page
 <img src="images/0.png" alt="Logo">
-2. Home Page
 <img src="images/1.png" alt="Logo">
-3. Movie Page
 <img src="images/2.png" alt="Logo">
